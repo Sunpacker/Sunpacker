@@ -10,7 +10,7 @@
 <hgroup>
   <h4> <a href="https://linguastep.vercel.app/" target="_blank" rel="noreferrer">🌎LinguaStep</a> </h4>
   <p align="left">An AI-powered SaaS platform for learning 9 (🇺🇸🇪🇸🇩🇪...) foreign languages through level-based paths, <br/> structured lessons, and guided 💬 conversational practice with LLM-based tutors.</p>
-  <b>a
+  <b>
     <img src="https://www.svgrepo.com/show/354107/nestjs.svg" alt="NestJS" width="16" height="16"/> NestJS +
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt" width="16" height="16"/> Nuxt 4 (Vue 3) +
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="16" height="16"/> PostgreSQL +
@@ -44,7 +44,7 @@
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354107/nestjs.svg" alt="NestJS" width="40" height="40"/></a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/></a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/></a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/Laravel.svg" alt="Laravel" width="40" height="40"/></a>
 </p>
 
 <h4>Databases & Storage</h4>
