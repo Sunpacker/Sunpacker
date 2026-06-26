@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Denis Kiselev</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunpacker&" alt="sunpacker" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sunpacker&label=Profile%20views&color=0e75b6&style=flat" alt="sunpacker" /> </p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunpacker&" alt="sunpacker" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunpacker&label=Profile%20views&color=0e75b6&style=flat" alt="sunpacker" /> </p>
+<hr>
 
 <h3 align="left">Current projects:</h3>
 
@@ -21,6 +22,7 @@
 </hgroup>
 
 <hr>
+
 <h3 align="left">Languages & Tools</h3>
 
 <h4>Frontend</h4>
