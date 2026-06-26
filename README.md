@@ -5,7 +5,7 @@
 
 <hgroup>
   <h4> <a href="https://linguastep.vercel.app/" target="_blank" rel="noreferrer">🌎LinguaStep</a> </h4>
-  <p align="left">An AI-powered SaaS platform for learning 🇺🇸🇪🇸🇩🇪 foreign languages through level-based paths, <br/> structured lessons, and guided 💬 conversational practice with LLM-based tutors.</p>
+  <p align="left">An AI-powered SaaS platform for learning 9 (🇺🇸🇪🇸🇩🇪...) foreign languages through level-based paths, <br/> structured lessons, and guided 💬 conversational practice with LLM-based tutors.</p>
   <b>a
     <img src="https://www.svgrepo.com/show/354107/nestjs.svg" alt="NestJS" width="16" height="16"/> NestJS +
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt" width="16" height="16"/> Nuxt 4 (Vue 3) +
