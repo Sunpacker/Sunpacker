@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Denis Kiselev</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunpacker&" alt="sunpacker" />
-</p>
-
 <h3>Contacts</h3>
 
 <ul>
