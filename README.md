@@ -2,10 +2,6 @@
 <h3 align="center">Fullstack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sunpacker&label=Profile%20views&color=0e75b6&style=flat" alt="sunpacker" />
-</p>
-
-<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunpacker&" alt="sunpacker" />
 </p>
 
@@ -21,19 +17,19 @@
     </a>
   </li>
   <li>
-    <a href="https://t.me/sunpacker" target="_blank" rel="noreferrer">
-      <img src="https://www.svgrepo.com/show/452115/telegram.svg" alt="Telegram" width="16" height="16"/>
-    </a>
-    <a href="https://t.me/sunpacker" target="_blank" rel="noreferrer">
-      @sunpacker
-    </a>
-  </li>
-  <li>
     <a href="https://www.linkedin.com/in/sunpacker/" target="_blank" rel="noreferrer">
       <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="Telegram" width="16" height="16"/>
     </a>
     <a href="https://www.linkedin.com/in/sunpacker/" target="_blank" rel="noreferrer">
       LinkedIn
+    </a>
+  </li>
+  <li>
+    <a href="https://t.me/sunpacker" target="_blank" rel="noreferrer">
+      <img src="https://www.svgrepo.com/show/452115/telegram.svg" alt="Telegram" width="16" height="16"/>
+    </a>
+    <a href="https://t.me/sunpacker" target="_blank" rel="noreferrer">
+      @sunpacker
     </a>
   </li>
 </ul>
