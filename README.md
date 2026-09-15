@@ -32,7 +32,7 @@
 
 <hr>
 
-<h3 align="left">Current projects:</h3>
+<!-- <h3 align="left">Current projects:</h3>
 
 <hgroup>
   <h4>
@@ -55,7 +55,7 @@
   </b>
 </hgroup>
 
-<hr>
+<hr> -->
 
 <h3 align="left">Languages & Tools</h3>
 
